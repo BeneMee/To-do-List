@@ -1,0 +1,26 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    margin-bottom: 5px;
+}
+
+#heading {
+    font-size: 3rem;
+}
+
+#inputfield {
+    font-size: 1.25rem;
+}
+
+#btn {
+    font-size: 1.25rem;
+
+}
